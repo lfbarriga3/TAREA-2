@@ -5,14 +5,14 @@
 
 Entender las relaciones de proporcionalidad entre: corriente, voltaje y resistencia mediante la ley de ohm de tal manera que al final del capítulo 3 sea posible el cálculo de corriente, resistencia y voltaje en circuitos eléctricos.
 
-Definir términos de energía y potencia mediante investigaciones bibliográficas que permitan entender la relación entre energía y potencia a fin de realizar cálculos que impliquen nuevas unidades elèctricas.
+Definir términos de energía y potencia mediante investigaciones bibliográficas que permitan entender la relación entre energía y potencia a fin de realizar cálculos que impliquen nuevas unidades eléctricas.
 
 
 **1.2 Objetivos Específicos**
 
 Realización de demostraciones gráficas que permitan visualizar la proporcionalidad de I (corriente) con V (voltaje) y V (voltaje) con I (corriente).
 
-Entender la definición de caìdas de voltraje en un circuto eléctrico 
+Entender la definición de caídas de voltaje en un circuto eléctrico 
 
 Analizar las características y propiedades que tiene una fuente de potencia.
 
@@ -209,9 +209,9 @@ https://youtu.be/91YI7Z-BE1w
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se ha conocido que la corriente y el voltaje son linealmente proporcionales, es decir que si una de las dos incrementa o dismunuye la otra también la hará en la misma proporción, mientras que con la corriente y la resisitencia sucede lo opuesto dado que son inversamente proporciones lo cual implica que si una de estas unidades aumenta, entonces la otra disminuye y viceversa.
+A lo largo del presente informe se ha conocido que la corriente y el voltaje son linealmente proporcionales, es decir que si una de las dos incrementa o dismunuye la otra también la hará en la misma proporción, mientras que con la corriente y la resistencia sucede lo opuesto dado que son inversamente proporciones lo cual implica que si una de estas unidades aumenta, entonces la otra disminuye y viceversa.
 
-Adicionalmente se aprendió que la potencia es la razón de cambio a la cual se utiliza la energía, además de ello se cogró comprender la relación que tiene la potencia con la energía, el tiempo, el voltaje, la corriente y la resistencia; de esta manera al final del capítulo 4, a manera de práctica se realizaron ejercicios que permitían hallar la potencia de un circuto eléctrico.
+Adicionalmente se aprendió que la potencia es la razón de cambio a la cual se utiliza la energía, además de ello se logró comprender la relación que tiene la potencia con la energía, el tiempo, el voltaje, la corriente y la resistencia; de esta manera al final del capítulo 4, a manera de práctica se realizaron ejercicios que permitían hallar la potencia de un circuto eléctrico.
 
 ### 6. BIBLIOGRAFÍA 
 
