@@ -3,7 +3,21 @@
 
 **1.1 Objetivo General**
 
+Entender las relaciones de proporcionalidad entre: corriente, voltaje y resistencia mediante la ley de ohm de tal manera que al final del capítulo 3 sea posible el cálculo de corriente, resistencia y voltaje en circuitos eléctricos.
+
+Definir términos de energía y potencia mediante investigaciones bibliográficas que permitan entender la relación entre energía y potencia a fin de realizar cálculos que impliquen nuevas unidades elèctricas.
+
+
 **1.2 Objetivos Específicos**
+
+Realización de demostraciones gráficas que permitan visualizar la proporcionalidad de I (corriente) con V (voltaje) y V (voltaje) con I (corriente).
+
+Entender la definición de caìdas de voltraje en un circuto eléctrico 
+
+Analizar las características y propiedades que tiene una fuente de potencia.
+
+Aprender a seleccionar resistores adecuados en base a la potencia del circuito eléctrico.
+
 
 ### 2. MARCO TEÓRICO
 
