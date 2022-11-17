@@ -7,6 +7,38 @@
 
 ### 2. MARCO TEÓRICO
 
+**2.1 Capítulo 3: Ley de Ohm**
+
+**2.1.1La relación de corriente, voltaje y resistencia**
+
+![RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA](https://user-images.githubusercontent.com/116696484/202542137-0828f95d-f3bd-42fe-95e1-0dbedc8d6090.jpeg)
+
+**2.1.1 Introducción a la localización de fallas**
+
+![INTRODUCCIÓN A LA LOCALIZACIÓN DE FALLAS](https://user-images.githubusercontent.com/116696484/202542269-1cecf761-8a3d-41d7-a9ca-9305ba611f76.jpeg)
+
+**2.2 Capítulo 3: Energía y Potencia**
+
+**2.2.1 Energía y potencia**
+
+![ENERGÍA Y POTENCIA](https://user-images.githubusercontent.com/116696484/202542568-47f9f8f9-fe02-48da-8034-224a33ea2b12.jpeg)
+
+**2.2.2 Potencia en un circuito eléctrico**
+
+![POTENCIA EN UN CIRCUITO ELÉCTRICO](https://user-images.githubusercontent.com/116696484/202542668-a83ec4c1-4598-4abd-88e1-50b057a63b2a.jpeg)
+
+**2.2.3 Potencia nominal en resistores**
+
+![POTENCIA NOMINAL EN RESISTORES](https://user-images.githubusercontent.com/116696484/202543237-7405009b-9a90-47ca-b491-c4dd6fc2308a.jpeg)
+
+**2.2.4 Conversión de energía y caída de voltaje en una resistencia**
+
+![Conversión de energía y caída de voltaje en una resistencia](https://user-images.githubusercontent.com/116696484/202543059-b6583d8a-32af-46d6-b5f2-07fafb8ad3d6.jpeg)
+
+**2.2.5 Fuentes de potencia**
+
+![image](https://user-images.githubusercontent.com/116696484/202543471-908b07de-b246-4346-b2d8-37f94cf028bd.png)
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
 **CAPÍTULO 3: LEY DE OHM**
