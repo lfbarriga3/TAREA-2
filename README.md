@@ -205,6 +205,8 @@ Mediría primero la corriente con el amperímetro conectado al dispositivo eléc
 
 ### 4. VIDEO
 
+https://youtu.be/91YI7Z-BE1w
+
 ### 5. CONCLUSIONES 
 
 A lo largo del presente informe se ha conocido que la corriente y el voltaje son linealmente proporcionales, es decir que si una de las dos incrementa o dismunuye la otra también la hará en la misma proporción, mientras que con la corriente y la resisitencia sucede lo opuesto dado que son inversamente proporciones lo cual implica que si una de estas unidades aumenta, entonces la otra disminuye y viceversa.
