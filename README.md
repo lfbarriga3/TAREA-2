@@ -9,7 +9,7 @@
 
 **2.1 Capítulo 3: Ley de Ohm**
 
-**2.1.1La relación de corriente, voltaje y resistencia**
+**2.1.1 La relación de corriente, voltaje y resistencia**
 
 ![RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA](https://user-images.githubusercontent.com/116696484/202542137-0828f95d-f3bd-42fe-95e1-0dbedc8d6090.jpeg)
 
