@@ -20,11 +20,12 @@
 ![image](https://user-images.githubusercontent.com/116696484/202535707-2e17700f-199d-4b0a-82ff-671c1de79622.png)
 
 ***6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.***
-<img width="310" alt="6" src="https://user-images.githubusercontent.com/116696484/202530708-8a4759d1-eb69-446b-97db-5019b7b19d6b.PNG">
+![image](https://user-images.githubusercontent.com/116696484/202538996-8daa2b96-63ed-4a7a-a3d3-b631bcee898b.png)
 
 ***8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro***
 
-![image](https://user-images.githubusercontent.com/116696484/202535772-6439b3a3-1fa4-4747-b143-a74aa68522b6.png)
+![image](https://user-images.githubusercontent.com/116696484/202539345-a3c2298b-fa0e-40cb-9675-65ec81878e88.png)
+![image](https://user-images.githubusercontent.com/116696484/202539464-20eb7bf2-c9f1-4b11-80b3-b04d7ef21c08.png)
 
 ***10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?***
 ![image](https://user-images.githubusercontent.com/116696484/202531397-bbbecf9b-0a95-415e-8cf1-3d7ee4aedbb9.png)
