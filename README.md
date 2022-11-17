@@ -13,18 +13,18 @@
 
 ***2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.***
 
-<img width="42" alt="2" src="https://user-images.githubusercontent.com/116696484/202530366-aa7da3fc-6e77-440d-8b5a-ce9ae734a174.PNG">
+![image](https://user-images.githubusercontent.com/116696484/202535646-9e44da6c-ae25-47ea-b61f-0a4b6aaaf0b7.png)
 
 ***4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos***
 
-<img width="38" alt="4" src="https://user-images.githubusercontent.com/116696484/202530528-bbde186f-ea21-41ad-86f0-39d66ea0146e.PNG">
+![image](https://user-images.githubusercontent.com/116696484/202535707-2e17700f-199d-4b0a-82ff-671c1de79622.png)
 
 ***6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.***
 <img width="310" alt="6" src="https://user-images.githubusercontent.com/116696484/202530708-8a4759d1-eb69-446b-97db-5019b7b19d6b.PNG">
 
 ***8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro***
 
-<img width="329" alt="8" src="https://user-images.githubusercontent.com/116696484/202530896-e9c2cc75-8ed5-4086-b03c-b7811fb520d7.PNG">
+![image](https://user-images.githubusercontent.com/116696484/202535772-6439b3a3-1fa4-4747-b143-a74aa68522b6.png)
 
 ***10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?***
 ![image](https://user-images.githubusercontent.com/116696484/202531397-bbbecf9b-0a95-415e-8cf1-3d7ee4aedbb9.png)
@@ -84,6 +84,76 @@ Mediría primero la corriente con el amperímetro conectado al dispositivo eléc
 **CAPÍTULO 4: ENERGÍA Y POTENCIA**
 
 ***2. Demuestre que hay 3.6x106 joules en un kilowatt-hora.***
+
+![image](https://user-images.githubusercontent.com/116696484/202535895-7086b455-c9ed-45a9-b836-d3ac97de06b9.png)
+
+***4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?***
+
+![image](https://user-images.githubusercontent.com/116696484/202536042-03368e7b-d519-4afa-908c-64bb003435ca.png)
+
+***6. Convierta las siguientes cantidades en kilowatts:***
+
+![image](https://user-images.githubusercontent.com/116696484/202536271-6f47bea9-1c53-49c8-9a5e-7b7c4eb5de4a.png)
+
+***8. Convierta las siguientes cantidades en miliwatts:***
+
+![image](https://user-images.githubusercontent.com/116696484/202536442-00263604-7018-49a9-9b8e-c3a8b2c485aa.png)
+
+***10. Convierta las siguientes cantidades en watts:***
+
+![image](https://user-images.githubusercontent.com/116696484/202536657-fe7d04bb-0730-43c9-94cd-aef73d4788b6.png)
+
+***12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?***
+
+![image](https://user-images.githubusercontent.com/116696484/202536796-53ed2f0b-1c0e-4406-9d79-39624ae014b8.png)
+
+***14. Convierta 5x106 watts-minutos en kWh***
+
+![image](https://user-images.githubusercontent.com/116696484/202536961-6a98063d-7e73-412d-ad51-e6f87b15152a.png)
+
+***16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohm para consumir 25 J?***
+
+![image](https://user-images.githubusercontent.com/116696484/202537237-52b8c2a5-cd15-40f7-9b78-158c33c4918a.png)
+
+***18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?***
+
+![image](https://user-images.githubusercontent.com/116696484/202537484-3f42297f-e47a-4453-a294-8d7d08715f77.png)
+
+***20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 k ohm?***
+
+![image](https://user-images.githubusercontent.com/116696484/202537706-130593d1-5d01-432b-92bc-5a4b17a6ec85.png)
+
+***22. Si entre los extremos de un resistor de 680 ohm existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/116696484/202537865-6e65ab2c-76e4-43dc-a026-43b92210d27c.png)
+
+***24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.***
+
+![image](https://user-images.githubusercontent.com/116696484/202537989-cba48188-ae3e-4265-a0f5-328f4899b384.png)
+
+***26. Un resistor de 6.8 k se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.***
+
+![image](https://user-images.githubusercontent.com/116696484/202538129-bb3a5dfa-082e-457c-937a-498342b82bdc.png)
+
+***28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor. ***
+
+![image](https://user-images.githubusercontent.com/116696484/202538306-bddebe79-2e9c-420d-8e89-bf43ad8a0759.png)
+
+***30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?***
+
+![image](https://user-images.githubusercontent.com/116696484/202538395-51e9062d-0c5c-4082-84e6-db7c910b5bed.png)
+
+***32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?***
+
+![image](https://user-images.githubusercontent.com/116696484/202538462-fbcc454c-a214-482b-8614-8bf6d624b7bc.png)
+
+***34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?***
+
+![image](https://user-images.githubusercontent.com/116696484/202538553-fa734877-48eb-4311-b040-10f1000f817a.png)
+
+***36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?***
+
+![image](https://user-images.githubusercontent.com/116696484/202538598-5dcda978-d446-4dae-aefc-ff75a0ea361f.png)
 
 
 ### 4. VIDEO
