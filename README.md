@@ -212,3 +212,7 @@ A lo largo del presente informe se ha conocido que la corriente y el voltaje son
 Adicionalmente se aprendió que la potencia es la razón de cambio a la cual se utiliza la energía, además de ello se cogró comprender la relación que tiene la potencia con la energía, el tiempo, el voltaje, la corriente y la resistencia; de esta manera al final del capítulo 4, a manera de práctica se realizaron ejercicios que permitían hallar la potencia de un circuto eléctrico.
 
 ### 6. BIBLIOGRAFÍA 
+
+Macías García, M. E., Contreras Hinojosa, C., Anaya Zamora, R., García, M. E. M., Hinojosa, C. C., & Zamora, R. A. Ley de Ohm.
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
