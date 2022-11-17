@@ -207,4 +207,8 @@ Mediría primero la corriente con el amperímetro conectado al dispositivo eléc
 
 ### 5. CONCLUSIONES 
 
+A lo largo del presente informe se ha conocido que la corriente y el voltaje son linealmente proporcionales, es decir que si una de las dos incrementa o dismunuye la otra también la hará en la misma proporción, mientras que con la corriente y la resisitencia sucede lo opuesto dado que son inversamente proporciones lo cual implica que si una de estas unidades aumenta, entonces la otra disminuye y viceversa.
+
+Adicionalmente se aprendió que la potencia es la razón de cambio a la cual se utiliza la energía, además de ello se cogró comprender la relación que tiene la potencia con la energía, el tiempo, el voltaje, la corriente y la resistencia; de esta manera al final del capítulo 4, a manera de práctica se realizaron ejercicios que permitían hallar la potencia de un circuto eléctrico.
+
 ### 6. BIBLIOGRAFÍA 
